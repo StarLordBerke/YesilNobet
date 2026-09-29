@@ -195,6 +195,7 @@ Tarayıcınızda `http://localhost:3000` adresini açarak uygulamayı test edebi
 ## 📜 Lisans & Ekolojik Vizyon
 
 Bu proje, açık bilim standartlarına, biyo-çeşitliliğin korunmasına ve Türkiye ormanlarının gelecek nesillere eksiksiz aktarılmasına katkı sağlamak amacıyla geliştirilmiştir.  
+
 © 2026 **YeşilNöbet Platformu** - *Ormanlar İçin Akıllı Göz, Doğa İçin Canlı Kalkan.*
 
 ---
