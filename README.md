@@ -8,7 +8,7 @@
 
 Platformu tarayıcınız üzerinden canlı olarak deneyimleyebilir, interaktif orman risk haritasını inceleyebilir, fidan bağışında bulunabilir ve yapay zeka destekli vatandaş ihbar sistemini test edebilirsiniz.
 
-- 🚀 **Canlı Uygulama (Canlıya Alınmış Hali):** [https://ais-pre-6r7tjbkqdb3iii5kfph4ld-524291745461.europe-west3.run.app](https://ais-pre-6r7tjbkqdb3iii5kfph4ld-524291745461.europe-west3.run.app)
+- 🚀 **Canlı Uygulama (Canlıya Alınmış Hali):** [https://yesil-nobet.vercel.app/](https://yesil-nobet.vercel.app/)
 
 ---
 
@@ -19,26 +19,42 @@ YeşilNöbet platformunun tüm arayüzleri; biyo-çeşitlilik renk psikolojisine
 ### 1. YeşilNöbet Karşılama Portalı & Canlı Telemetri Akışı
 Platformun vizyonunu aktaran, bio-akustik dalga spektrumu simülatörü ve canlı telemetri sayaçlarıyla orman içi olayları sunan ana giriş kapısıdır. Sayfada anlık olarak kurtarılan ağaç hacmi, aktif LoRaWAN sensör düğümleri ve AI doğruluk oranları dinamik sayaçlarla sergilenir. Ayrıca projenin işleyiş aşamaları (*Akustik/Uydu Dinler ➔ AI Analiz Eder ➔ OGM Ekipleri Sevk Edilir ➔ Fidanlarla Koridor Onarılır*), destekçi kurumlar (OGM, TÜBİTAK UZAY, TEMA Vakfı), son gelen ihbar akışı ve saha korucularının gerçek saha deneyimleri bu ekranda yer alır.
 
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/YesilNobet/blob/main/img/anasayfa.png" alt="anasayfa" width="1200"/></a>
+
 ### 2. Canlı Orman Risk & Isı Haritası (Sentinel-2 & Leaflet)
 Türkiye genelindeki orman varlığının anlık radar ve uydu katmanları; akustik testere alarmları (kırmızı), termal yangın sıcak noktaları (turuncu), dozer ve arazi açma tahribatı (kahve) ile Sentinel-2 NDVI kanopi kaybı (sarı) pinleriyle kategorize edilir. Ayrıca parçalanan yaban hayatı geçişleri kesikli yeşil polylinelerle haritalanmış olup, her koridorun kopukluk mesafesi ve dikim gereksinimi canlı olarak simüle edilir.
+
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/YesilNobet/blob/main/img/risk.png" alt="risk" width="1200"/></a>
 
 ### 3. Fidan Bağışı & Bilimsel Ekolojik Koridor Onarımı
 Rastgele değil, matematiksel ve ekolojik modellerle maden sahaları ve yangınlarla kopan habitat koridorlarını (Madra Dağı, Kazdağları, Milas kıyıları, Köyceğiz sığla hatları) fidanlarla birleştiren seferberlik portalıdır. Kullanıcılar ada/parsel koordinatlı dijital fidan sertifikası alabilir ya da bizzat saha dikim gönüllüsü olmak için başvuru yapabilirler.
 
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/YesilNobet/blob/main/img/g%C3%B6n%C3%BCll%C3%BC.png" alt="gonullu" width="1200"/></a>
+
 ### 4. Yapay Zeka Destekli Vatandaş Orman İhbar Portalı
 Doğa yürüyüşçülerinin, köylülerin ve korucuların karşılaştıkları kaçak kesim veya orman tahribatını fotoğraflayıp koordinatıyla iletebildiği kullanıcı dostu formdur. Yapay zeka motoru yüklenen görseli analiz ederek tahribat türünü (motorlu testere izi, iş makinesi tahribatı, kaçak yol) ve güven skorunu anında doğrular.
+
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/YesilNobet/blob/main/img/ihbar.png" alt="ihbar" width="1200"/></a>
 
 ### 5. OGM & STK Komuta & Karar Destek Paneli
 Orman Genel Müdürlüğü nöbetçi komuta masası ve doğa koruma STK'ları için tasarlanmış yüksek veri yoğunluklu yönetim konsoludur. Kritik bekleyen alarmlar, akustik frekans spektrogram analizleri, intikaldeki devriye timlerinin takibi ve aylık trend analitiği bar grafiğiyle olaylar tek tıkla çözümlenir veya OGM devriyesine sevk edilir.
 
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/YesilNobet/blob/main/img/ogm.png" alt="ogm" width="1200"/></a>
+
 ### 6. Ekolojik Raporlar ve Orman Teknolojisi Blogu
 Biyo-akustik frekans analizi, Sentinel-2 multispektral bant matematiği, yaban hayatı koridor parçalanması ve LoRaWAN mesh ağları üzerine akademisyenler ve orman mühendisleri tarafından kaleme alınan derinlemesine makaleleri barındıran bilgi kütüphanesidir.
+
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/YesilNobet/blob/main/img/blog.png" alt="blog" width="1200"/></a>
 
 ### 7. Proje Hakkında & Vizyon
 Projenin doğuş hikayesini, Türkiye ormanlarının karşı karşıya olduğu tehditleri ve biyo-akustik IoT donanımlarının teknik mimarisini aktaran şeffaf kurumsal manifestodur.
 
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/YesilNobet/blob/main/img/hakkinda.png" alt="hakkinda" width="1200"/></a>
+
 ### 8. İletişim & Koordinasyon
 OGM Bölge Müdürlükleri, üniversiteler, doğa STK'ları ve açık kaynak orman sensörü gönüllüleri için tasarlanmış iletişim köprüsüdür. SSS alanı ve doğrudan ALO 112 / ALO 177 Orman Yangın acil hatlarını barındırır.
+
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/YesilNobet/blob/main/img/iletisim.png" alt="iletisim" width="1200"/></a>
 
 ---
 
@@ -180,3 +196,7 @@ Tarayıcınızda `http://localhost:3000` adresini açarak uygulamayı test edebi
 
 Bu proje, açık bilim standartlarına, biyo-çeşitliliğin korunmasına ve Türkiye ormanlarının gelecek nesillere eksiksiz aktarılmasına katkı sağlamak amacıyla geliştirilmiştir.  
 © 2026 **YeşilNöbet Platformu** - *Ormanlar İçin Akıllı Göz, Doğa İçin Canlı Kalkan.*
+
+---
+*Geliştirici: Berke Mert Öztürk*
+
