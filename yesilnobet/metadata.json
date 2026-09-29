@@ -1,0 +1,7 @@
+{
+  "name": "YeşilNöbet - Orman Erken Uyarı ve Koruma Platformu",
+  "description": "Orman tahribatını, yasadışı kesimleri ve habitat parçalanmasını uydu görüntüleri ve akustik sensörlerle tespit eden erken uyarı ve izleme web platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
